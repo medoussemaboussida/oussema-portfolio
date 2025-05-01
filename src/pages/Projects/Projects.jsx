@@ -15,8 +15,8 @@ const projects = [
     liveLink: "",
   },
   {
-    title: "♾️ CI/CD Mini project ",
-    description:"🚀 Continuous Integration and Automation with Jenkins , Testing with JUnit and Mockito , Code Quality Control with SonarQube , Artifact Hosting with Nexus3 , Environment Configuration with DockerCompose and Dockerfile , Continuous Delivery on DockerHub , Monitoring and Visualization with Prometheus and Grafana .",
+    title: "♾️ DevOps Mini project ",
+    description:"🚀 Continuous Integration and Continuous Deployment CI/CD for SpringBoot project.",
     src: "tree.jpg",
     link: "https://www.lambdatest.com/blog/wp-content/uploads/2024/06/unnamed-12-1.png",
     color: "#8f89ff",
@@ -68,7 +68,7 @@ const projects = [
     description:
       "🚀 Conception and development of a 2D game using the Linux operating system (Ubuntu) and C Language . 💻✨",
     src: "house.jpg",
-    link: "https://private-user-images.githubusercontent.com/155064713/391331154-8f97823e-6808-4ca7-8bdf-dead10da4a9b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU5NTM0MDIsIm5iZiI6MTc0NTk1MzEwMiwicGF0aCI6Ii8xNTUwNjQ3MTMvMzkxMzMxMTU0LThmOTc4MjNlLTY4MDgtNGNhNy04YmRmLWRlYWQxMGRhNGE5Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyOVQxODU4MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MjdlMGQ3ZDU3MGY3ZjYzMWMxYTYxZmMzZDYyM2Y2YjM0MzdiNjMyZTkyZWNhYzVjNjQwZTJhN2Y0MzU5ZmU5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.---tvAf8XolmMMaOjE1PgkctG7bZFU18O5_ksPxY6vg",
+    link: "https://private-user-images.githubusercontent.com/155064713/391331154-8f97823e-6808-4ca7-8bdf-dead10da4a9b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYxMjQyNTEsIm5iZiI6MTc0NjEyMzk1MSwicGF0aCI6Ii8xNTUwNjQ3MTMvMzkxMzMxMTU0LThmOTc4MjNlLTY4MDgtNGNhNy04YmRmLWRlYWQxMGRhNGE5Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwMVQxODI1NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MmM1NWViZTJmNmJlMmYxNGNiNDdkMDg0NjE1NTU1YzU1MmM1YzFkOTY1ZTQ2N2EyM2NhNmI5MWU5OWU4ZTdmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.5FOkUWWwVZjk94m0gKEAwrYI7wlp7Cg_rJ7o3hIlTBc",
     color: "#ed649e",
     githubLink: "https://github.com/medoussemaboussida/Leaders-Apocalypse.git",
     liveLink: "",
